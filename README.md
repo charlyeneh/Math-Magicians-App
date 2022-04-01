@@ -58,7 +58,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 - GitHub: [@charlyeneh](https://github.com/charlyeneh)
 - Twitter: [@twitterhandle](https://twitter.com/ProgrammerBaby?s=09)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/charles-chukwunweike-eneh-5345a2147)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/charles-chukwunweike-eneh/)
 
 
 ## 🤝 Contributing
