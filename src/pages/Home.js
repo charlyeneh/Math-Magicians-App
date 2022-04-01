@@ -28,14 +28,6 @@ const Home = () => (
         sit amet consectetur adipisicing elit.Facilis
         consectetur saepe sunt consequatur labore.
       </p>
-      <p>
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis
-        consectetur saepe sunt consequatur labore, exercitationem nesciunt
-        reiciendis? Exercitationem, consectetur minima odio harum asperiores
-        pariatur eum accusantium soluta rem, maxime minus.Lorem, ipsum dolor
-        sit amet consectetur adipisicing elit.Facilis
-        consectetur saepe sunt consequatur labore.
-      </p>
     </div>
   </div>
 );
