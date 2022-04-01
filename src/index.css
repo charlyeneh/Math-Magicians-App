@@ -34,7 +34,8 @@ body {
   color: antiquewhite;
 }
 
-.welcome p, h3 {
+.welcome p,
+h3 {
   color: antiquewhite;
   text-align: justify;
   padding: 1rem 3rem;
