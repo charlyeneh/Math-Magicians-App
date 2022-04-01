@@ -6,11 +6,23 @@
 
 body {
   margin-top: 2rem;
-  background-color: black;
+  /* background-color: black; */
 }
 
 .calc-header {
   margin-bottom: 1rem;
   color: aliceblue;
   font-style: oblique;
+}
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  padding: 0 2rem;
+}
+
+.links {
+  padding: 0 1rem;
 }

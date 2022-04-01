@@ -62,7 +62,7 @@ const Calculator = () => {
 
   return (
     <section className="calculator">
-      <h1>Math Magician</h1>
+      {/* <h1>Math Magician</h1> */}
       <div className="return-section">{returnSection()}</div>
       <div className="digits-elts">
         {buttons}
